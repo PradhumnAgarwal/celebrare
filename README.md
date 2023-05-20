@@ -5,3 +5,4 @@ CSS-Image masking for applying frame-image function.
 
 ## Hosting
 The hosting link for the site is: 
+https://celebrare-nu.vercel.app/
